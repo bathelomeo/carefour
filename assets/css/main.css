@@ -1,0 +1,94 @@
+body{
+background-image: linear-gradient(to bottom, #e5dede, #eadedd, #eedfdc, #f2e0da, #f5e1d8, #fae3d4, #fde5d0, #ffe8cc, #ffedc6, #fff2c1, #fdf8be, #f6ffbc);
+font-family: 'Pacifico', 'cursive';
+font-size: large;
+}
+
+.imo {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+
+.imo:hover {
+    filter: grayscale(0%);
+    transform: scale(1.03);
+}
+
+.imho {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho2 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho2:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho3 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho3:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho4 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho4:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho5 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho5:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho6 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho6:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho7 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho7:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}

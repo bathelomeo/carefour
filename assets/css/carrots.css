@@ -1,0 +1,42 @@
+body{
+background-image: linear-gradient(to bottom, #2cff00, #00efa8, #00d5ff, #00b2ff, #0083ff, #0065f6, #1142e8, #3b00d3, #4600bd, #4b00a9, #4c0095, #4b0082);
+}
+.container{
+background-image: linear-gradient(to bottom, #ff0000, #ff3e00, #ff5a00, #ff7000, #ff8300, #ff9300, #ffa200, #ffb100, #ffc100, #ffd200, #ffe300, #fff400);
+font-family: 'Fruktur', 'cursive';
+}
+.imo {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+    }
+    
+.imo:hover {
+    filter: grayscale(0%);
+    transform: scale(1.03);
+}
+
+.imo2 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+    }
+    
+.imo2:hover {
+    filter: grayscale(0%);
+    transform: scale(1.03);
+}
+
+.imo3 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+    }
+    
+.imo3:hover {
+    filter: grayscale(0%);
+    transform: scale(1.03);
+}
