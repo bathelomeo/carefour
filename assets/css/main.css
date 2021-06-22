@@ -92,3 +92,47 @@ transform: scale(1.03);
 filter: grayscale(0%);
 transform: scale(1.03);
 }
+
+.imho8 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho8:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho9 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho9:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho10 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho10:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
+
+.imho11 {
+    filter: grayscale(100%);
+    cursor: pointer;
+    transition: all;
+    transition: all .5s ease-in-out;
+}
+.imho11:hover {
+filter: grayscale(0%);
+transform: scale(1.03);
+}
